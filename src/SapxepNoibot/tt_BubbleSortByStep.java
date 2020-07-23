@@ -2,7 +2,7 @@ package SapxepNoibot;
 
 import java.util.Scanner;
 
-public class BubbleSortByStep {
+public class tt_BubbleSortByStep {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter list size:");
