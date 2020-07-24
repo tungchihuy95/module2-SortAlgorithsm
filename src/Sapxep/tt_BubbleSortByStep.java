@@ -1,4 +1,4 @@
-package SapxepNoibot;
+package Sapxep;
 
 import java.util.Scanner;
 
